@@ -1,1 +1,4 @@
 # Phys_Gen
+Programmed a website using HTML, PHP, and CSS that would help physics teachers generate test questions and their answers based on an inputted formula and numerical values for the variables. The questions are saved so the user can easily change the values of the variables and generate a diﬀerent version of the same test with a corresponding answer key. The questions and answers are numbered and recorded in a text ﬁle that could be downloaded on the click of a link. The multiple choice version of the website allows the user to input one correct formula and three incorrect ones, which could be used to easily generate multiple choice questions and an answer key. I am currently working on using MySQL to create a database to enable user accounts.
+
+Link to website: http://bizc.com/cl/workspace/index.php
